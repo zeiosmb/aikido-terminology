@@ -1,0 +1,23 @@
+## Todo
+- Morihei Ueshiba Sounds like "Mory-hey You-eshi-ba"
+- Onate, onate-mi, honest answer
+- migi, hidari
+- Mushin 無心 (empty mind)
+- Shoshin	初心	(beginner’s mind)
+- Zanshin 残心 (remaining mind)
+- Hig
+- Hiji kime 肘極め押さえ (against the elbow)
+- Ni nin gake 二人掛け (two person attack)
+- San nin gake 
+- Kata osae 肩押さえ (shoulder pin)
+- Onegaishimasu お願いします Petition, request. Sounds like "Own-ay-gashi-mas"
+- Domo Arigato Gozaimasu/gozaimashita どうもありがとうございます どうもありがとうございました (Most polite form of thanks in present tense, past tense)
+  - domo: adverb, for some reason. Greeting emphasis. Most informal, can be rude. "Thanks"
+  - arigato: Informal "Thank you"
+  - domo arigato: "Thank you very much"
+  - Arigato gozaimashita: thank you
+  - Gozaimasu: "Thank you for a favor." sounds like "gozaimas"
+  - gozaimashita: "Thank you for a favor," that is finished, past tense. Sounds like "gozaimashta"
+  - https://www.youtube.com/watch?v=fL4_ovzdPd8
+  - https://www.youtube.com/watch?v=TlpAboPXs0I
+- Kenshusei 研修生 (professional student)

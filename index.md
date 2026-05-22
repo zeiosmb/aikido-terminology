@@ -4,21 +4,19 @@ title: Aikido Vocabulary
 description: Glossary of Japanese aikido terms, techniques, and concepts
 ---
 
-> Uncertain items are marked `(?)`.
-
 ## Resources
 
 - Harvard Aikikai — https://aikidoharvard.org/basic-aikido-vocabulary/
 - iOS app "Japanese"
 - Aikido Journal Encyclopedia — https://aikidojournal.com/category/encyclopedia/
-- USAF Kyu/Dan Test Requirements — see [2024_USAF_test_requirements.md](2024_USAF_test_requirements.md)
+- USAF Kyu/Dan Test Requirements — see [USAF Test Requirements.md](https://www.usaikifed.com/usaf-policies)
 
 ## To Verify / Open Questions
 
 - **Equal practice** possibilities:
   - Gokaku keiko 互角稽古
   - Musubi keiko 結び稽古
-- **Onate / onate-mi** — original entry: "honest answer". I could not identify this term; possibly mishearing of **honne** 本音 (true feeling) or **sunao** 素直 (honest, frank). Confirm with sensei.
+- **Onate / onate-mi** — original entry: "honest answer". I could not identify this term; possibly mishearing of **honne** 本音 (true feeling) or **sunao** 素直 (honest, frank).
 
 ## Core Concepts
 

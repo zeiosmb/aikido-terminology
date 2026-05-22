@@ -73,7 +73,7 @@ Win, gain victory.
 - Kamae → Waza → Zanshin (stance → technique → finish)
 - Shikaku 死角 (blind spot, dead angle; shi 死 = death, kaku 角 = angle)
 - Misogi 禊 (purification ritual; Ueshiba practiced misogi heavily, as did Akira Tohei)
-- Kotodama 言霊 (word-spirit; the belief that words and sounds carry spiritual force — to speak a sound is to invite its meaning. Foundational to Ueshiba's mystical teachings; also the cultural premise behind shi/ku number avoidance — see [Numerical superstition](#numerical-superstition--shi--ku))
+- Kotodama 言霊 (word-spirit; the belief that words and sounds carry spiritual force — to speak a sound is to invite its meaning. Foundational to Ueshiba's mystical teachings; also the cultural premise behind shi/ku number avoidance — see [Numerical tradition](#numerical-tradition--shi--ku))
 Japanese cultural concepts (not aikido-specific, but they recur in dojo life):
 - Giri 義理 (duty, obligation — a binding social debt that must be repaid)
 - Honne 本音 vs. Tatemae 建前 (private true feelings vs. public face / outward conduct)
@@ -162,7 +162,7 @@ People counters used in jiyu waza / randori:
 - Yonin 四人 (four people)
 - Gonin 五人 (five people)
 
-### Numerical superstition — shi & ku
+### Numerical tradition — shi & ku
 
 Two numbers carry homophones with unwelcome meanings and are routinely avoided in speech:
 

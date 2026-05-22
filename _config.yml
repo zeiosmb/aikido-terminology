@@ -4,30 +4,28 @@ url: https://zeiosmb.github.io
 baseurl: /aikido-terminology
 lang: en
 
-remote_theme: just-the-docs/just-the-docs
+remote_theme: hydecorp/hydejack@v9
 
 plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-paginate
 
-color_scheme: light
+accent_color: rgb(38,139,210)
+theme_color: rgb(32,35,42)
 
-search_enabled: true
-search:
-  heading_level: 3
-  previews: 3
-  preview_words_before: 5
-  preview_words_after: 10
+menu:
+  - title: GitHub
+    url: https://github.com/zeiosmb/aikido-terminology
 
-heading_anchors: true
-
-aux_links:
-  "View on GitHub":
-    - "https://github.com/zeiosmb/aikido-terminology"
-
-back_to_top: true
-back_to_top_text: "↑ Back to top"
+hydejack:
+  no_break_layout: false
+  no_mark_external: false
+  no_search: true
+  no_drawer: false
 
 markdown: kramdown
 kramdown:

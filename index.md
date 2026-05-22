@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Aikido Vocabulary
 description: Glossary of Japanese aikido terms, techniques, and concepts
 ---

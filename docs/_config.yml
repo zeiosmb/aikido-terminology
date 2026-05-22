@@ -1,0 +1,19 @@
+title: Aikido Terminology
+description: Glossary of Japanese aikido terms, techniques, and concepts
+url: https://zeiosmb.github.io
+baseurl: /aikido-terminology
+
+theme: minima
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Optional but nice for sharing
+twitter:
+  card: summary

@@ -1,4 +1,7 @@
-# Aikido Vocabulary
+---
+title: Aikido Vocabulary
+description: Glossary of Japanese aikido terms, techniques, and concepts
+---
 
 > Uncertain items are marked `(?)`.
 

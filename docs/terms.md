@@ -19,6 +19,7 @@
 ## Core Concepts
 
 ### Mind / Spirit — Shin / Kokoro 心
+
 Heart, mind, spirit.
 - Mushin 無心 (empty / no-mind)
 - Shoshin 初心 (beginner's mind)
@@ -27,6 +28,7 @@ Heart, mind, spirit.
 - Heijoshin 平常心 (everyday mind, equanimity)
 
 ### Ki 気
+
 Energy, spirit, breath, intention. Central to the name *aikido* itself.
 - Aiki 合気 (joining ki; harmonizing energy)
 - Kiai 気合 (focused shout, projection of ki)
@@ -34,11 +36,13 @@ Energy, spirit, breath, intention. Central to the name *aikido* itself.
 - Ki musubi 気結び (tying / connecting ki between partners)
 
 ### Hara / Tanden
+
 - Hara 腹 (belly, center of gravity, locus of energy)
 - Tanden 丹田 (energy center, ~2 inches below the navel)
 - Seika tanden 臍下丹田 (the specific point below the navel)
 
 ### Victory — Katsu 勝
+
 Win, gain victory.
 - Masakatsu 正勝 (true / correct victory)
 - Agatsu 吾勝 (self-victory)
@@ -46,6 +50,7 @@ Win, gain victory.
 - Full saying: **Masakatsu Agatsu Katsuhayabi** 正勝吾勝勝速日 — Ueshiba's motto, "True victory is self-victory, victory in the speed of light."
 
 ### Correct / Just — Masa, Sei 正
+
 - Masakatsu 正勝
 - Seiza 正座 (correct sitting)
 - Shomen 正面 — two senses:
@@ -53,10 +58,12 @@ Win, gain victory.
   2. (b) the front of the dojo where the picture of O-Sensei resides (the direction faced for *shomen-ni-rei*)
 
 ### Fundamentals — Kihon 基本
+
 - Kihon waza 基本技 (basic techniques)
 - Kihon dōsa 基本動作 (basic movements)
 
 ### Other concepts
+
 - Ma-ai 間合い (combative distance, interval)
 - Awase 合わせ (blending, matching)
 - Musubi 結び (connection, tying together)
@@ -72,6 +79,7 @@ Japanese cultural concepts (not aikido-specific, but they recur in dojo life):
 ## Etiquette & Greetings
 
 ### Bows — Rei 礼
+
 - Rei 礼 (bow, courtesy, gratitude)
 - Reigi 礼儀 (etiquette, manners)
 - Shomen ni rei 正面に礼 (bow to the shomen)
@@ -79,6 +87,7 @@ Japanese cultural concepts (not aikido-specific, but they recur in dojo life):
 - Otagai ni rei お互いに礼 (mutual bow between partners)
 
 ### Common phrases
+
 - Onegaishimasu お願いします — petition, request; "please" (said when initiating practice). Sounds like "own-ay-gashi-mas"
 - Domo arigato gozaimasu どうもありがとうございます — most polite "thank you" (present)
 - Domo arigato gozaimashita どうもありがとうございました — same, past tense (said at end of class). Sounds like "gozaimashta"
@@ -98,17 +107,20 @@ Japanese cultural concepts (not aikido-specific, but they recur in dojo life):
 ## Ranks, Titles, Roles
 
 ### Doshu & dojo leadership
+
 - Doshu 道主 (chief / lord of the way; head of Aikikai)
 - Dojo-cho 道場長 (dojo head) — Crowell Sensei is Dojo-cho of Knoxville Aikikai
 - O-Sensei 大先生 / 翁先生 (founder, Morihei Ueshiba 植芝 盛平 — pronounced **MOH-ree-hay OO-eh-shee-bah**. Note: "Ue-" is two separate vowels (u + e), *not* the English "you" diphthong. In fast speech the u+e often slurs to "weh", giving **MOH-ree-hay WESH-bah**.)
 
 ### Instructors
+
 - Fukushidoin 副指導員 (assistant / first-level instructor)
 - Shidoin 指導員 (instructor)
 - Shihan 師範 (master instructor)
 - Sensei 先生 (teacher; general honorific for all instructors)
 
 ### Students
+
 - Senpai 先輩 (senior colleague)
 - Kohai 後輩 (junior colleague)
 - Uchi deshi 内弟子 (live-in student)
@@ -117,6 +129,7 @@ Japanese cultural concepts (not aikido-specific, but they recur in dojo life):
 - Kenshūsei 研修生 (professional / live-in trainee; 研修 = training, 生 = student)
 
 ### Rank — Dan, Kyu
+
 - Dan 段 (black-belt rank; lit. "step")
 - Yudansha 有段者 (those of dan rank)
 - Kyu 級 (ranks below dan)
@@ -124,6 +137,7 @@ Japanese cultural concepts (not aikido-specific, but they recur in dojo life):
 - Mukyusha 無級者 (those without a kyu rank)
 
 ## Counting & Numbers
+
 Used constantly for counting techniques, repetitions, and attackers.
 
 | # | Reading | Kanji |
@@ -147,6 +161,7 @@ People counters used in jiyu waza / randori:
 - Gonin 五人 (five people)
 
 ### Numerical superstition — shi & ku
+
 Two numbers carry homophones with unwelcome meanings and are routinely avoided in speech:
 
 - **四 (shi)** = 4 — homophone of **死 (shi)** = death
@@ -167,25 +182,30 @@ This connects to **言霊 (kotodama)** — the belief that words and sounds carr
 ## Body
 
 ### Te 手 — hand
+
 - Tekubi 手首 (wrist; lit. "hand-neck")
 - Tegatana 手刀 (hand-blade / sword-hand)
 - Atemi 当て身 (strike)
 - Tsuki 突き (forward closed-fist punch). Sounds like "ski"
 
 ### Kote — wrist / forearm
+
 *Both kanji appear in the literature; 小手 is the conventional aikido writing for kotegaeshi.*
 - 小手 (small-hand, forearm) — standard aikido usage
 - 籠手 (armored gauntlet) — classical / kenjutsu usage (?)
 - Kotegaeshi 小手返し (wrist turn-out throw)
 
 ### Kubi 首 — neck
+
 - Kubishime 首絞め (neck choke, chokehold)
 
 ### Kata 肩 — shoulder
+
 - Katatori 肩取り (shoulder grab)
 - Kata-osae 肩押さえ (shoulder pin)
 
 ### Men 面 — face / front of head
+
 - Menuchi 面打ち (strike to top of head with tegatana)
 - Mentsuki 面突き (closed-fist punch to face)
 - Shomenuchi 正面打ち (strike to front of head)
@@ -194,24 +214,30 @@ This connects to **言霊 (kotodama)** — the belief that words and sounds carr
 ### Hiza 膝 — knee
 
 ### Hiji 肘 — elbow
+
 - Hiji-kime-osae 肘極め押さえ (elbow lock pin)
 
 ### Ude 腕 — arm
+
 - Udekimenage 腕極め投げ (arm lock throw)
 
 ### Koshi / Goshi 腰 — hips, loins, waist
+
 - Koshinage 腰投げ (hip throw)
 - O-goshi 大腰 (large hip; a Judo throw)
 
 ### Hara 腹 — belly / center
+
 (see [Core Concepts → Hara](#hara--tanden))
 
 ## Direction & Orientation
 
 ### Mae 前 — front
+
 - Mae ukemi 前受身 (forward roll/fall)
 
 ### Ushiro 後 — behind, back
+
 - Ushiro ukemi 後受身 (back roll/fall)
 - Ushiro-tekubitori 後手首取り (both wrists held from behind)
 - Ushiro-ryokatatori 後両肩取り (both shoulders held from behind)
@@ -219,24 +245,30 @@ This connects to **言霊 (kotodama)** — the belief that words and sounds carr
 - Ushiro waza 後技 (techniques from rear attack)
 
 ### Hidari 左 — left
+
 - Hidari hanmi 左半身
 
 ### Migi 右 — right
+
 - Migi hanmi 右半身
 
 ### Irimi 入身 — entering
+
 - Iriminage 入身投げ (entering throw)
 
 ### Tenshin 転身 / 転進 — body turn / course change
+
 Nage retreats 45° from attacker.
 
 ### Tenkan 転換 — turn, divert, switch
 
 ### Soto 外 — outside
+
 - Soto mawari 外回り (outside turn)
 - Soto deshi 外弟子
 
 ### Uchi 内 — inside, home
+
 - Uchi mawari 内回り (inside turn)
 - Uchi deshi 内弟子
 
@@ -245,18 +277,22 @@ Nage retreats 45° from attacker.
 ### Ura 裏 — back, reverse (turning variation of a technique)
 
 ### Sen 先 — ahead, initiative
+
 - Go-no-sen 後の先 (responding after attack begins; e.g., tenshin)
 - Sen-no-sen 先の先 (responding at the moment of attack; e.g., irimi)
 - Sen-sen-no-sen 先々の先 (anticipating before attack manifests)
 
 ### Happo 八方 — eight directions / all directions
+
 - Happo undo 八方運動 (eight-direction exercise)
 - Happō giri 八方斬り (eight-direction cut; sword exercise — see [Sword practice](#sword-practice))
 
 ### Shiho 四方 — four directions
+
 - Shihonage 四方投げ (four-direction throw)
 
 ### Furikaburu 振りかぶる
+
 To raise (a sword, hand) overhead before cutting.
 - Furi 振り (shake, wave, wag, swing)
 - Kaburu 被る (to put on the head, to wear, to crown oneself; to brandish overhead)
@@ -264,21 +300,25 @@ To raise (a sword, hand) overhead before cutting.
 ## Positions & Stances
 
 ### Hanmi 半身 — half-stance
+
 - Ai hanmi 相半身 (matching half-stance — same foot forward)
 - Gyaku hanmi 逆半身 (opposite half-stance — different feet forward)
 - Hanmi handachi 半身半立ち (half-body half-standing; nage kneels, uke stands)
 
 ### Han 半 — half
+
 - Handachi 半立ち (half-standing)
 - Hanmi 半身 (half-body)
 
 ### Za 座 — sitting
+
 - Seiza 正座 (correct sitting; on knees, tops of feet flat)
 - Kiza 跪座 (alert sitting; on knees, toes raised — ready to spring up). Also seen as Keiza 危座 (?)
 - Suwari waza 座り技 (seated techniques)
 - Zagi 座技 (seated, active posture; as in Zagi Kokyuho)
 
 ### Kamae 構え — posture, structure, defensive stance
+
 - Jōdan-no-kamae 上段の構え (upper-level stance)
 - Chūdan-no-kamae 中段の構え (middle-level stance)
 - Gedan-no-kamae 下段の構え (lower-level stance)
@@ -288,6 +328,7 @@ To raise (a sword, hand) overhead before cutting.
 ## Attacks (Tori, Uchi, Tsuki)
 
 ### Tori 取り — grab, seize, take
+
 - Katatori 肩取り (one shoulder grab)
 - Ryokatatori 両肩取り (both shoulders grab)
 - Katatetori 片手取り (one hand grab to wrist; lit. "single-hand take")
@@ -302,12 +343,14 @@ To raise (a sword, hand) overhead before cutting.
 - Jo-tori 杖取り (disarm jo attacker)
 
 ### Uchi 打ち — strike
+
 - Ai-uchi 相打ち (mutual / simultaneous strike)
 - Menuchi 面打ち (hand-blade strike to head)
 - Shomenuchi 正面打ち (strike to front of head)
 - Yokomenuchi 横面打ち (strike to side of head)
 
 ### Tsuki 突き — thrust, punch
+
 - Mentsuki 面突き (punch to face)
 - Mune-tsuki 胸突き (punch to chest / solar plexus)
 
@@ -364,6 +407,7 @@ Other pins / locks:
 - Ushiro waza 後技 (rear-attack techniques)
 
 ### Jiyu Waza vs. Randori
+
 Two terms describe free-form practice, and they are not neutral synonyms.
 
 **Randori 乱取り** — "chaos-taking." The kanji 乱 carries the sense of disorder, scattering, randomness. **Akira Tohei Sensei** (direct student of O-Sensei) found this term unsatisfying. He likened *randori* to a food buffet: *a little here, a little there* — picking and choosing techniques without intention or coherence. The word implies that whatever surfaces from chaos is what you take.
@@ -379,21 +423,25 @@ A technical USAF distinction also exists between the two:
 ## Movement (Tai sabaki, Undo, Dosa)
 
 ### Tai sabaki 体捌き — body movement
+
 - Tenkan 転換 (turn)
 - Irimi 入身 (enter)
 - Irimi-tenkan 入身転換 (enter then turn)
 - Tenshin 転身 / 転進 (45° retreat)
 
 ### Undō 運動 — exercise, training
+
 - Funakogi undo 船漕ぎ運動 (boat-rowing exercise)
 - Ikkyo undo 一教運動
 - Happo undo 八方運動 (eight-direction movement)
 - Tai-no-henko 体の変更 (basic blending exercise)
 
 ### Dōsa 動作 — action, motion
+
 - Kokyu-dosa 呼吸動作 (breath-timing motion; USAF: seated breath-power exercise)
 
 ### Kokyū 呼吸 — breath, timing
+
 - Kokyu undo 呼吸運動 (breath exercise)
 - Kokyu nage 呼吸投げ (breath throw)
 - Kokyu-dosa 呼吸動作
@@ -402,6 +450,7 @@ A technical USAF distinction also exists between the two:
 ## Weapons (Buki 武器)
 
 ### Sword
+
 - Ken 剣 (sword, blade — generic)
 - Katana 刀 (curved single-edged sword)
 - Tachi 太刀 (older long-sword, worn edge-down)
@@ -412,6 +461,7 @@ A technical USAF distinction also exists between the two:
 - Iaidō 居合道 (art of drawing the sword)
 
 ### Jo 杖 — short staff
+
 - Jo 杖 (~50-inch staff)
 - Jo-tori 杖取り (disarming jo attacker)
 - Jo-dori — same as above (alternate romanization)
@@ -420,11 +470,13 @@ A technical USAF distinction also exists between the two:
 - Aiki-jo 合気杖 (aikido jo curriculum)
 
 ### Other weapons
+
 - Tanto 短刀 (knife)
 - Bo 棒 (long staff, ~6 ft)
 - Buki-waza 武器技 (weapons techniques)
 
 ### Sword parts
+
 - Koshirae 拵え (sword mountings)
 - Tsuba 鍔 (guard)
 - Tsuka 柄 (hilt / handle)
@@ -439,6 +491,7 @@ A technical USAF distinction also exists between the two:
 - Mei 銘 (smith's signature on the nakago)
 
 ### Sword practice
+
 - Suburi 素振り (cutting / swinging practice) — 素 (moto / su: elementary, basic, plain) + 振り (furi: shake, wave, swing)
 - Suburito 素振り刀 (heavy bokken for suburi)
 - Happō giri 八方斬り (eight-direction cut; sword exercise of consecutive cuts in all eight cardinal/intercardinal directions — the bokken/ken analogue of *happo undo*. 八方 = eight directions, 斬り = cut, from 斬る *kiru*, "to cut/slash with a sword")

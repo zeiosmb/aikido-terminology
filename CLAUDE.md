@@ -4,7 +4,7 @@ This project contains personal aikido study notes. The maintainer trains under t
 
 ## Project Files
 
-- `newvocab.md` — primary aikido vocabulary reference (concepts, etiquette, ranks, body, attacks, techniques, weapons, romanization, kanji-root index).
+- `newvocab.md` — primary aikido terminology reference (concepts, etiquette, ranks, body, attacks, techniques, weapons, romanization, kanji-root index).
 - [USAF Test Requirements.md](https://www.usaikifed.com/usaf-policies) — USAF Kyu/Dan exam requirements. **Formal document — preserve terminology verbatim. Do not rewrite.**
 
 ## Lineage & Terminology Preferences
@@ -45,7 +45,7 @@ NOT:
 First line of content.
 ```
 
-## Vocabulary Verification Standards
+## Terminology Verification Standards
 
 When proposing or editing Japanese terms, verify kanji and translations from multiple sources. Be alert to these specific errors that recur in source materials:
 
@@ -76,7 +76,7 @@ Other systems (Kunrei-shiki 訓令式, Nihon-shiki 日本式) appear in older or
 
 ## Working Style
 
-- Discuss before changing: when proposing edits to vocabulary or structure, surface the reasoning and let the user confirm before applying.
+- Discuss before changing: when proposing edits to terminology or structure, surface the reasoning and let the user confirm before applying.
 - Cite sources when verifying Japanese terms online.
 - Use markdown links (`[name](path)`) for cross-references between project files. Avoid backticks/code formatting for file paths.
 - Preserve user manual edits — if the file changes between turns, treat those changes as intentional and don't revert without asking.

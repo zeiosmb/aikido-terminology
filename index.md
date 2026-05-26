@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aikido Vocabulary
+title: Aikido Terminology
 description: Glossary of Japanese aikido terms, techniques, and concepts
 ---
 
